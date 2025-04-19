@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://i.ibb.co/hsBpncQ/a5c95b19bfcef14f12904ee4dd826881.webp" alt="banner"/>
-</p>
+<img src="https://raw.githubusercontent.com/shuvmaybe/shuvmaybe/refs/heads/main/assets/nazrin.png" alt="nazrin" width="100"/>
